@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Currency Converter
+This project was made using Vite+React based on javascript and with the help of tailwind CSS. It uses an API that provides the real time currency conversion rates in 
+JSON format.
+The options provided to user are dynamically generated using API call. It also provides an option to swap the currency.
+This project was undertaken to understand  API calls using different methods like fetch or axios library in react and get a proper hold of asynchronous js.
